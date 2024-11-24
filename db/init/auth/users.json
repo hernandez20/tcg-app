@@ -1,0 +1,17 @@
+[
+    {
+      "username": "user1",
+      "email": "user1@example.com",
+      "password": "secure_password_1"  
+    },
+    {
+      "username": "user2",
+      "email": "user2@example.com",
+      "password": "secure_password_2"  
+    },
+    {
+      "username": "admin",
+      "email": "admin@example.com",
+      "password": "$2b$10$zuGOEm7jMgVliSjY/sxYYORXf0xf3GLCnyMNBaXLUQIRH85l3LiYO"
+    }
+  ]
